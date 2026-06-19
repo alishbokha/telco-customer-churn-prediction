@@ -125,15 +125,7 @@ The most influential factors affecting customer churn were:
 
 ---
 
-## Author
 
-**Alish Bokha**
-
-BCA Graduate | Data Science & Machine Learning Enthusiast
-
-LinkedIn: Add your LinkedIn profile link here
-
-GitHub: Add your GitHub profile link here
 
 ---
 
